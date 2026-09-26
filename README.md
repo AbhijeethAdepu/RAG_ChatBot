@@ -121,12 +121,22 @@ RAG_ChatBot/
 └── .gitignore
 
 
-Outputs:
+---
 
-![alt text](outputs/rag-chatbot-document-upload.png)
+## 📸 Screenshots
 
-![alt text](outputs/rag-chatbot-pdf-processing.png)
+### 📄 PDF Upload
 
-![alt text](outputs/rag-chatbot-response.png)
+![PDF Upload](outputs/rag-chatbot-document-upload.png)
 
-![alt text](outputs/rag-chatbot-sources.png)
+### ⚙️ PDF Processing
+
+![PDF Processing](outputs/rag-chatbot-pdf-processing.png)
+
+### 💬 Generated Response
+
+![Generated Response](outputs/rag-chatbot-response.png)
+
+### 📌 Source Citations
+
+![Source Citations](outputs/rag-chatbot-sources.png)
