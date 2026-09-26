@@ -99,8 +99,9 @@ Hugging Face Sentence Transformers	Text embeddings
 PyPDF	PDF document loading
 
 
-📁 Project Structure
+## 📁 Project Structure
 
+```text
 RAG_ChatBot/
 │
 ├── documents/
@@ -119,7 +120,7 @@ RAG_ChatBot/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
