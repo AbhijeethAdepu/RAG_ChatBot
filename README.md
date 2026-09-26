@@ -51,7 +51,12 @@ The application allows users to upload PDF documents, convert their content into
                       │
                       ▼
               Document Sources
+
+
+
 🔄 How It Works
+
+
 1. Document Ingestion
 
 PDF documents are loaded using PyPDFLoader and divided into smaller chunks using RecursiveCharacterTextSplitter.
@@ -82,6 +87,7 @@ The model runs locally through Ollama and generates an answer based on the retri
 The application displays the source document and page number associated with the retrieved chunks.
 
 🛠️ Tech Stack
+
 Technology	Purpose
 Python	Application development
 LangChain	RAG pipeline and document processing
@@ -94,6 +100,7 @@ PyPDF	PDF document loading
 
 
 📁 Project Structure
+
 RAG_ChatBot/
 │
 ├── documents/
