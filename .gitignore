@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB
+vectorstore/
+
+
+# Environment / secrets
+.env
+.streamlit/
+
+# Local installers
+*.exe
+
+# IDE
+.vscode/
