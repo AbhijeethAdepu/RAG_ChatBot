@@ -119,3 +119,14 @@ RAG_ChatBot/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+
+Outputs:
+
+![alt text](outputs/rag-chatbot-document-upload.png)
+
+![alt text](outputs/rag-chatbot-pdf-processing.png)
+
+![alt text](outputs/rag-chatbot-response.png)
+
+![alt text](outputs/rag-chatbot-sources.png)
