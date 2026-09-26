@@ -91,6 +91,8 @@ Ollama	Local LLM runtime
 Llama 3.2 3B	Language model
 Hugging Face Sentence Transformers	Text embeddings
 PyPDF	PDF document loading
+
+
 📁 Project Structure
 RAG_ChatBot/
 │
